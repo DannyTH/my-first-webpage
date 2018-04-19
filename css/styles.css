@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+body{
+ background-color: brown;
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLb8HfSK1du9MN1ZOJoxuarwyuDKUMo1VRtYnlHuEyBXM3lPK);
+ background-repeat: repeat-x;
+ font-weight: bold;
+ :
+}
